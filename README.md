@@ -16,8 +16,8 @@ Paper: https://arxiv.org/abs/1610.09585
 
 #### Example
 ```
-$ cd acgan/
-$ python3 acgan.py
+$ cd dcgan/
+$ python3 dcgan.py
 ```
 
 ### GAN
